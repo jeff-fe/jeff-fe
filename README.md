@@ -1,9 +1,8 @@
 ## Hi there 👋
-My english name is Jeff.  I'm a web developer.
-
-[![@jeff-fe Astro contributions](https://astro.badg.es/v1/contributor/jeff-fe.svg)](https://astro.badg.es/v1/contributor/jeff-fe/)
+My English name is Jeff.  I'm a web developer.
 
 <!--
+[![@jeff-fe Astro contributions](https://astro.badg.es/v1/contributor/jeff-fe.svg)](https://astro.badg.es/v1/contributor/jeff-fe/)
 **jeff-fe/jeff-fe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
